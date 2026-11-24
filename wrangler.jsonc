@@ -19,12 +19,6 @@
       "migrations_dir": "migrations"
     }
   ],
-  "r2_buckets": [
-    {
-      "binding": "R2",
-      "bucket_name": "tforum-uploads"
-    }
-  ],
   "vars": {
     // 可选：站点固定域名（如 https://forum.example.com）。
     // 不设时邮件链接域名取请求 Origin，一般无需设置。
