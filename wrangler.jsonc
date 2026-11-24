@@ -14,8 +14,8 @@
     {
       "binding": "DB",
       "database_name": "tforum-db",
-      // ↓↓↓ 占位符，部署前必须替换为真实 database_id ↓↓↓
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      // 已填真实 database_id（2026-11-24 新建 tforum-db）
+      "database_id": "7640b486-a5bf-4963-875c-c9f7f541466c",
       "migrations_dir": "migrations"
     }
   ],
